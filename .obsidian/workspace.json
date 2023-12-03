@@ -11,8 +11,12 @@
             "id": "478732ef0d18cc9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "a.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "a.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "478732ef0d18cc9b",
+  "active": "56340e56efb4d3f1",
   "lastOpenFiles": [
+    "a.md",
     "a.txt"
   ]
 }
